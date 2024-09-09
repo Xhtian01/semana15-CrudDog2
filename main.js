@@ -1,4 +1,5 @@
 import axios from 'axios';
+import './imagenes';
 import './style.css';
 
 const overlay = document.querySelector('.overlay');
